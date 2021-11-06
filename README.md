@@ -7,6 +7,9 @@
 ### Parallel Attention
 ![](pic/pa.png)
 
+## Dataset
+网盘 https://pan.baidu.com/s/1drTBa_ZOIQ1RnvtuZkb2dg 提取码: brfz 
+
 ## EXPERIMENTS RESULTS
 ![](pic/model_plot.png)
 ![](pic/recall.png)
